@@ -1,0 +1,12 @@
+.bg-gradient-theme {
+    @include bg-gradient-theme(-45deg, #000, 25%, #4a4f0f, 50% , #003b77 , 75%);
+}
+
+$darker-theme: #001627;
+$dark-theme: #0026440;
+$light-theme: #005ca3;
+$media-accent-color: $light-theme;
+$gray-dark-theme: #59574a;
+$gray-light-theme: #d0d2d3;
+$black: #0026440;
+$white: #ffffff;

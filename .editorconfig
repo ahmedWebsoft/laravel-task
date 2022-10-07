@@ -1,0 +1,32 @@
+root = true
+
+[*]
+charset = utf-8
+end_of_line = crlf
+indent_style = space
+indent_size = 4
+
+[*.blade.php]
+charset = utf-8
+end_of_line = crlf
+indent_style = space
+indent_size = 2
+
+[*.scss]
+charset = utf-8
+end_of_line = crlf
+indent_style = space
+indent_size = 2
+
+[*.css]
+charset = utf-8
+end_of_line = crlf
+indent_style = space
+indent_size = 2
+
+[*.md]
+trim_trailing_whitespace = false
+
+[*.yml]
+indent_style = space
+indent_size = 2
